@@ -20,6 +20,15 @@
     "id": 4,
     "name": "Big Blue Button",
     "difficulty": 1,
+    "collaboration":{
+        "real-time": "real-time converstation"
+        "video-conferencing": "Have video conferences with your peers"
+        "text": false,
+        "multimedia": "Allows mutlimedia aspects such as sharing images, annotating said items that are being shared"
+        "engagement": "Video conferencing mixed with multimedia aspects have been known to cause "
+        "sharing": false,
+        "schedule": false,
+    }
   },
   {
     "id": 5,
@@ -45,11 +54,31 @@
     "id": 9,
     "name": "EtherPad",
     "difficulty": 1,
+    "collaboration": {
+      "real-time": "Edit documents at the same time and never be afraid of whether you have the latest edit"
+      "video-conferencing": false,
+      "text": "Type up information",
+      "multimedia": false,
+      "engagement": false,
+      "sharing": "No longer having to send out the same document to your peers over and over again",
+      "schedule": "A team member can still catch up even if he wasn't there then"
+    }
+
   },
   {
     "id": 10,
     "name": "ScreenSharing"
     "difficulty": 1,
+    "collaboration":{
+      "real-time": ,
+      "video-conferencing":,
+      "text"
+      "multimedia":,
+      "engagement":,
+      "sharing":,
+      "schedule":,
+}
+
   },
   {
     "id": 1,
