@@ -2,7 +2,7 @@ $(document).ready(function(){
 
   initSliders();
 
-  var FJS = FilterJS.auto(movies)
+  var FJS = FilterJS.auto(applications)
 
   FJS.addCallback('afterFilter', function(result){
     $('#total_movies').text(result.length);

@@ -28,7 +28,10 @@
         "engagement": "Video conferencing mixed with multimedia aspects have been known to cause "
         "sharing": false,
         "schedule": false,
-    }
+    },
+    "Alternative Technology": [
+        "Skype"
+    ]
   },
   {
     "id": 5,
@@ -62,7 +65,10 @@
       "engagement": false,
       "sharing": "No longer having to send out the same document to your peers over and over again",
       "schedule": "A team member can still catch up even if he wasn't there then"
-    }
+    },
+    "Alternative Technology": [
+        "Skype"
+    ]
 
   },
   {
